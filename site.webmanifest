@@ -1,0 +1,35 @@
+{
+  "name": "SeaMeet - AI Meeting Copilot",
+  "short_name": "SeaMeet",
+  "description": "Your 24/7 AI Meeting Copilot that records, transcribes, summarizes, and generates action items",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["business", "productivity", "communication"],
+  "icons": [
+    {
+      "src": "/images/hero-dashboard.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/hero-dashboard.png", 
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/images/hero-dashboard.png",
+      "sizes": "1200x800",
+      "type": "image/png",
+      "label": "SeaMeet Dashboard - AI Meeting Assistant Interface"
+    }
+  ]
+}

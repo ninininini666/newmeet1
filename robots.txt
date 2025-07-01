@@ -1,0 +1,18 @@
+# Robots.txt for SeaMeet.ai
+# Generated on 2025-07-01T22:02:05.516Z
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://seameet.ai/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Disallow admin or private areas (if any)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Allow all search engines to index content
+# This includes Google, Bing, Yahoo, DuckDuckGo, etc.
