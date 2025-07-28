@@ -1,0 +1,11 @@
+// ➕ jsconfig.json ：配置文件
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@components/*": ["components/*"],
+      "@content/*": ["content/*"]
+    }
+  },
+  "include": ["src"]
+}
